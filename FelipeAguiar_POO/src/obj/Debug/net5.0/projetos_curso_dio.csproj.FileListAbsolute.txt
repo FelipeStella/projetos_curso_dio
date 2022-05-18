@@ -1,0 +1,16 @@
+C:\Users\felipe.stella\Desktop\projetos_curso_dio\FelipeAguiar_POO\src\bin\Debug\net5.0\projetos_curso_dio.exe
+C:\Users\felipe.stella\Desktop\projetos_curso_dio\FelipeAguiar_POO\src\bin\Debug\net5.0\projetos_curso_dio.deps.json
+C:\Users\felipe.stella\Desktop\projetos_curso_dio\FelipeAguiar_POO\src\bin\Debug\net5.0\projetos_curso_dio.runtimeconfig.json
+C:\Users\felipe.stella\Desktop\projetos_curso_dio\FelipeAguiar_POO\src\bin\Debug\net5.0\projetos_curso_dio.runtimeconfig.dev.json
+C:\Users\felipe.stella\Desktop\projetos_curso_dio\FelipeAguiar_POO\src\bin\Debug\net5.0\projetos_curso_dio.dll
+C:\Users\felipe.stella\Desktop\projetos_curso_dio\FelipeAguiar_POO\src\bin\Debug\net5.0\ref\projetos_curso_dio.dll
+C:\Users\felipe.stella\Desktop\projetos_curso_dio\FelipeAguiar_POO\src\bin\Debug\net5.0\projetos_curso_dio.pdb
+C:\Users\felipe.stella\Desktop\projetos_curso_dio\FelipeAguiar_POO\src\obj\Debug\net5.0\projetos_curso_dio.csproj.AssemblyReference.cache
+C:\Users\felipe.stella\Desktop\projetos_curso_dio\FelipeAguiar_POO\src\obj\Debug\net5.0\projetos_curso_dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.stella\Desktop\projetos_curso_dio\FelipeAguiar_POO\src\obj\Debug\net5.0\projetos_curso_dio.AssemblyInfoInputs.cache
+C:\Users\felipe.stella\Desktop\projetos_curso_dio\FelipeAguiar_POO\src\obj\Debug\net5.0\projetos_curso_dio.AssemblyInfo.cs
+C:\Users\felipe.stella\Desktop\projetos_curso_dio\FelipeAguiar_POO\src\obj\Debug\net5.0\projetos_curso_dio.csproj.CoreCompileInputs.cache
+C:\Users\felipe.stella\Desktop\projetos_curso_dio\FelipeAguiar_POO\src\obj\Debug\net5.0\projetos_curso_dio.dll
+C:\Users\felipe.stella\Desktop\projetos_curso_dio\FelipeAguiar_POO\src\obj\Debug\net5.0\ref\projetos_curso_dio.dll
+C:\Users\felipe.stella\Desktop\projetos_curso_dio\FelipeAguiar_POO\src\obj\Debug\net5.0\projetos_curso_dio.pdb
+C:\Users\felipe.stella\Desktop\projetos_curso_dio\FelipeAguiar_POO\src\obj\Debug\net5.0\projetos_curso_dio.genruntimeconfig.cache
